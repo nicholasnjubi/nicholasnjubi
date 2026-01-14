@@ -1,52 +1,36 @@
 # Nicholas Njubi 👋
 
-Data & Cybersecurity Professional  
-Designing data-driven systems with security, privacy, and operational resilience by design.
+**Data & Cybersecurity Professional**  
+Building data-driven, secure, and operationally resilient systems with privacy, risk, and governance in mind.
 
 ---
 
-## 👤 Professional Profile
-I am a data and cybersecurity professional working across **data science, machine learning, artificial intelligence, and security operations**. My focus is on designing, assessing, and improving systems that are analytically robust, operationally reliable, and secure by design.
+## 👤 Profile
+I am a professional working across **data analysis, data science, machine learning, and artificial intelligence**, with a strong specialization in **cybersecurity**.  
 
-I apply a structured, risk-aware approach to data and AI initiatives, with a strong interest in **cybersecurity governance, threat analysis, and Security Operations Center (SOC) workflows**. My work emphasizes translating technical findings into insights that inform both technical teams and executive decision-makers.
+My focus includes:  
+- **Data & AI:** extracting insights, building predictive models, and deploying AI-driven decision support  
+- **Cybersecurity:** data privacy, information security, cybersecurity analysis, and SOC analysis  
 
----
-
-## 🚧 Current Focus Areas
-- Building and strengthening end-to-end data analysis and machine learning workflows  
-- Applying security, privacy, and governance controls across data and AI systems  
-- Developing practical expertise in **SOC operations**, including:
-  - Log analysis and event correlation  
-  - Threat detection, alert triage, and escalation  
-  - Incident analysis and response workflows  
-- Managing technical initiatives with clear scope, risk awareness, and delivery discipline  
+I combine technical depth with risk-aware, executive-level thinking to translate complex data and security insights into actionable solutions.
 
 ---
 
-## 🛠️ Technical Stack & Capabilities
+## 🚧 Current Focus
+- End-to-end **data science & ML workflows**  
+- **Applied AI systems** for real-world decision-making  
+- **Secure, privacy-aware data and AI pipelines**  
+- **Cybersecurity analysis:** threat detection, risk assessment, and control evaluation  
+- **SOC analysis:** log review, alert triage, and incident response workflows  
+- **Project delivery:** planning, risk management, and stakeholder communication  
 
-### Data Analysis & Analytics
-- Python, **SQL**, **Excel**, **Power BI**  
-- Exploratory data analysis and statistical reasoning  
-- Business intelligence reporting and dashboarding  
+---
 
-### Machine Learning & AI
-- Scikit-learn  
-- Feature engineering and model evaluation  
-- Applied AI systems and decision-support design  
-
-### Cybersecurity & SOC Analysis
-- Security monitoring and alert analysis fundamentals  
-- Log analysis and correlation concepts  
-- Incident response lifecycle and SOC playbooks  
-- Risk assessment, control mapping, and remediation tracking  
-- Data privacy and governance (GDPR, Kenya Data Protection Act)  
-
-### Project Management & Delivery
-- Project planning, execution, and tracking  
-- Risk identification and mitigation  
-- Stakeholder communication and reporting  
-- Documentation, controls, and continuous improvement  
+## 🛠️ Tools & Capabilities
+**Data & Analytics:** Python · SQL · Excel · Power BI  
+**Data Science & ML:** Scikit-learn · Feature Engineering · Model Evaluation · AI System Design  
+**Cybersecurity & SOC:** Data Privacy · Information Security · Cybersecurity Analysis · SOC Analysis · Incident Response  
+**Project & Delivery:** Project Planning · Risk Management · Documentation  
 
 ---
 
